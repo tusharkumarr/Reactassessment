@@ -1,6 +1,5 @@
 # To Do List Web App
 
-## About
 
 *****
 
